@@ -14,7 +14,7 @@ Este proyecto cumple con todos los requisitos solicitados por el desafío de Tel
 El proyecto se estructura en 4 grandes áreas:
 - `🛠️ Preparación de los Datos`: En esta sección se realiza la extracción del archivo, eliminación de columnas irrelevantes, encoding, verificación de la proporción de cancelación, balanceo y normalización de datos.
 - `🎯 Correlación y Selección de Variables`: En esta sección es donde nos encargamos de relizar un análisis de correlación entre las variables numéricas y un análisis dirigido de algunas variables con la cancelación.
-- `🤖 Modelado Predictivo`: En esta etapa creamos un modelo base, un modelo RandomForest y un modelo KNN.
+- `🤖 Modelado Predictivo`: En esta etapa creamos separamos los datos en conjuntos de entrenamiento y de prueba, luego creamos un modelo base, un modelo RandomForest y un modelo KNN, finalmente realizamos la evaluación de los modelos.
 - `📋 Interpretación y Conclusiones`: A partir de todo el trabajo realizado anteriormente, podemos realizar un informe que interprete los resultados del modelo seleccionado y a partir de éstos tomar decisiones acorde al análisis de variables.
 
 <h2 align="center"> :hammer:Funcionalidades del proyecto </h2>
